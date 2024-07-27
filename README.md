@@ -20,10 +20,7 @@ QuickBite is a web-based food delivery platform that offers an extensive selecti
 
 - *Wide Selection of Restaurants:* Choose from a diverse range of local eateries.
 - *User-Friendly Interface:* Simple and intuitive design for easy navigation.
-- *Real-Time Tracking:* Track your order from the restaurant to your door.
-- *Multiple Payment Options:* Pay using credit/debit cards, digital wallets, or cash on delivery.
-- *Promotions and Discounts:* Enjoy exclusive deals and discounts on your favorite meals.
-- *Customer Support:* 24/7 customer service to assist with any queries or issues.
+
 
 ## Installation
 
