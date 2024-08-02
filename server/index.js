@@ -16,7 +16,7 @@ mongoDB();
 
 // Enable CORS for specific origin
 app.use(cors({
-    origin: 'http://localhost:5173'
+    origin: 'https://quickbite-frontend-z2ew.onrender.com'
 }));
 
 app.use(express.json());
