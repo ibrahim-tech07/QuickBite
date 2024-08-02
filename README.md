@@ -44,4 +44,6 @@ To set up QuickBite on your local machine, follow these steps:
    ```
    ```bash
    npm start
-   
+*Visit this link to see Application:*
+```bash
+https://quickbite-frontend-z2ew.onrender.com/
