@@ -33,9 +33,15 @@ To set up QuickBite on your local machine, follow these steps:
 2. *To Start FrontEnd:*
 
    ```bash
-   npm start
+   npm install
 
    ```
    ```bash
+   npm run dev
+3. *To Start BackEnd:*
+   ```bash
    npm install
+   ```
+   ```bash
+   npm start
    
