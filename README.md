@@ -30,3 +30,10 @@ To set up QuickBite on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/ibrahim-tech07/QuickBite.git
+2. *To Start FrontEnd:*
+
+   ```bash
+   npm start
+```bash
+npm install
+   
