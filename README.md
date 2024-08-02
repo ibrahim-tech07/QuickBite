@@ -34,6 +34,6 @@ To set up QuickBite on your local machine, follow these steps:
 
    ```bash
    npm start
-```bash
-npm install
+   ```bash
+   npm install
    
